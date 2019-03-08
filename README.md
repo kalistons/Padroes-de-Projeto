@@ -3,11 +3,14 @@
   ### Factory Method
   
   O Factory Method delega a implementação do código de criação para as suas subclasses ou classes que o implementam.
+  
   Exemplo:
+  
       ![capturar](https://user-images.githubusercontent.com/23198970/54004744-77c54580-4135-11e9-8dab-099932e01566.PNG)
       
    A Implementação final e o seu uso:
-       
+   
+       ![capturar1](https://user-images.githubusercontent.com/23198970/54004953-59137e80-4136-11e9-9003-aba29b79158d.PNG)
       
   ### Abstract Factory
   ### Builder
