@@ -6,11 +6,11 @@
   
   Exemplo:
   
-      ![capturar](https://user-images.githubusercontent.com/23198970/54004744-77c54580-4135-11e9-8dab-099932e01566.PNG)
+      ![capturar](https://user-images.githubusercontent.com/23198970/54005053-b60f3480-4136-11e9-8592-c6a855d73633.PNG)
       
    A Implementação final e o seu uso:
    
-       ![capturar1](https://user-images.githubusercontent.com/23198970/54004953-59137e80-4136-11e9-9003-aba29b79158d.PNG)
+       ![capturar1](https://user-images.githubusercontent.com/23198970/54005060-b90a2500-4136-11e9-9119-15498d69d361.PNG)
       
   ### Abstract Factory
   ### Builder
