@@ -1,7 +1,8 @@
 Exemplos com código fonte de padrões de projetos
   Padrões de Criação
-  * Factory Method\n
-      \tO Factory Method delega a implementação do código de criação para as suas subclasses ou classes que o implementam.
+  * Factory Method
+  
+      O Factory Method delega a implementação do código de criação para as suas subclasses ou classes que o implementam.
       
   * Abstract Factory
   * Builder
