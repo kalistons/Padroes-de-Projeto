@@ -5,7 +5,11 @@
   O Factory Method delega a implementação do código de criação para as suas subclasses ou classes que o implementam.
   
   Exemplo:
-  ![capturar1](https://user-images.githubusercontent.com/23198970/54005060-b90a2500-4136-11e9-9119-15498d69d361.PNG)
+  
+  
+  ![capturar](https://user-images.githubusercontent.com/23198970/54005053-b60f3480-4136-11e9-8592-c6a855d73633.PNG)
+  
+  
       
    A Implementação final e o seu uso:
    
