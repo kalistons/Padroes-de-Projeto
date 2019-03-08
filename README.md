@@ -6,6 +6,9 @@
   Exemplo:
       ![capturar](https://user-images.githubusercontent.com/23198970/54004744-77c54580-4135-11e9-8dab-099932e01566.PNG)
       
+   A Implementação final e o seu uso:
+       
+      
   ### Abstract Factory
   ### Builder
   ### Singleton
