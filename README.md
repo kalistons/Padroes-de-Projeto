@@ -1,1 +1,1 @@
-Padroes-de-Projeto
+Exemplos com código fonte de padrões de projetos
